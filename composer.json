@@ -1,12 +1,14 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "liberusoftware/boilerplate-laravel",
+    "name": "liberusoftware/enterprise-sap-laravel",
     "type": "project",
-    "description": "Liberu boilerplate Laravel application.",
+    "description": "Liberu Enterprise SAP Laravel application for enterprise resource planning and SAP integration.",
     "keywords": [
         "laravel",
         "framework",
-        "boilerplate"
+        "enterprise",
+        "sap",
+        "erp"
     ],
     "license": "MIT",
     "repositories": [

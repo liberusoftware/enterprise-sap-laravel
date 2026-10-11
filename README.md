@@ -132,6 +132,7 @@ The test suite covers application behaviour and cross-package contracts. Archite
 
 ## Documentation
 
+- [Enterprise architecture](docs/ENTERPRISE_ARCHITECTURE.md)
 - [Module development](docs/MODULE_DEVELOPMENT.md)
 - [Foundation compliance](docs/FOUNDATION_COMPLIANCE.md)
 - [Foundation module matrix](docs/FOUNDATION_MODULE_MATRIX.md)
